@@ -1,0 +1,87 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.form{
+  background-color: #cbcbcb;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.811);
+  margin: 20px auto;
+  max-width: 400px;
+  padding: 20px;
+}
+
+
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  color: black;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+input{
+  border: 1px solid #b8b6b6;
+  border-radius: 4px;
+  font-size: 14px;
+  padding: 8px;
+  margin-bottom: 12px;
+}
+
+button {
+  
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 12px;
+}
+
+
+.cardRender {
+  background-color: #cbcbcb;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.811);
+  margin: 20px auto;
+  max-width: 400px;
+  padding: 20px;
+  text-align: center;
+}
+
+
+
+h2 {
+  color: black;
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+h4 {
+  margin-top: 3px;
+  color: #03284e;
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+h5 {
+  color: black;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+p {
+  color: rgb(153, 42, 42);
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.read-the-docs {
+  color: #888;
+}
